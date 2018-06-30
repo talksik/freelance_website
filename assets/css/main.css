@@ -2358,7 +2358,7 @@ ul.icons {
         padding-left: 4rem; }
   #footer .copyright {
     border-top: 1px solid;
-    font-size: 0.8rem;
+    font-size: 0.5rem;
     opacity: 0.5;
     padding: 2rem 0;
     text-align: center; }
@@ -2830,4 +2830,8 @@ body.is-menu-visible #menu {
   height: 80%;
   width: 200px;
   margin-left: 10px;
+}
+
+.emailHandle {
+  font-size: 1.2em;
 }
